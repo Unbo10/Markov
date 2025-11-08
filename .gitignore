@@ -1,2 +1,5 @@
 #*Venvs
 .venv/
+
+#*Project (to be changed for the actual project name)
+project/
